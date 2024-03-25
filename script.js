@@ -1,5 +1,5 @@
-alert("Hello Everyone Touch the screen ")
-prompt("Click OK or Cancle To Start")
+alert("Click OK ")
+prompt(" Hello Everyone Touch the screen ")
 
 
 let body = document.querySelector("body");
