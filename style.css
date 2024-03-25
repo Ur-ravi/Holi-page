@@ -15,7 +15,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/bg1.jpg);
+    background-image: url("https://img.freepik.com/free-vector/watercolor-rainbow-background-design_23-2149573252.jpg?w=996&t=st=1711396087~exp=1711396687~hmac=60b73c177affa8f750dd9276ef6ee97f30b0721094ee8d0a65e58839015ce43a");
     background-position:center;
     background-size: cover;
 }
