@@ -1,5 +1,4 @@
-alert("Click OK ")
-prompt(" Hello Everyone Touch the screen ")
+alert("Hello Everyone Touch the screen and see the magic! ")
 
 
 let body = document.querySelector("body");
